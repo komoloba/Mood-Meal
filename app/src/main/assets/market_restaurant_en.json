@@ -1,0 +1,11 @@
+{
+  "marketItems": [
+    { "id": "m1", "name": "Ayran + Whole-Wheat Simit + Boiled Egg", "kcalPerPortion": 420, "allergens": ["Gluten","Milk"], "notes": "Quick satiety + complex carbs" },
+    { "id": "m2", "name": "Kefir + Walnuts + Green Apple", "kcalPerPortion": 350, "allergens": ["Milk","Tree nuts"], "notes": "Refreshing and fibrous" }
+  ],
+  "restaurantItems": [
+    { "id": "re1", "name": "Chicken Veggie Noodles", "cuisine": "Asian",
+      "nutrition": { "kcalLow": 480, "kcalEst": 550, "kcalHigh": 680, "p": 30, "f": 18, "c": 65 },
+      "allergens": ["Gluten","Soy"], "tips": "Ask for low oil." }
+  ]
+}
