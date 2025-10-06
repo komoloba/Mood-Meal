@@ -1,0 +1,14 @@
+{
+  "questions": [
+    { "id": "q1", "dim": "valence", "text": "Right now, my feelings are mostly positive." },
+    { "id": "q2", "dim": "arousal", "text": "I feel energetic and ready to move." },
+    { "id": "q3", "dim": "stress",  "text": "Today my tension feels high." },
+    { "id": "q4", "dim": "craving", "text": "I'm strongly craving something to eat." },
+    { "id": "q5", "dim": "bodysense","text": "My stomach feels light and comfortable." },
+    { "id": "q6", "dim": "valence", "text": "I feel cheerful and optimistic right now." },
+    { "id": "q7", "dim": "arousal", "text": "My mind feels clear and alert." },
+    { "id": "q8", "dim": "stress",  "text": "I feel under pressure today." },
+    { "id": "q9", "dim": "craving", "text": "I'm tempted by sweet or salty snacks." },
+    { "id": "q10","dim": "bodysense","text": "I notice some fatigue or bloating." }
+  ]
+}

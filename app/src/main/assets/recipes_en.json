@@ -1,0 +1,24 @@
+{
+  "recipes": [
+    {
+      "id": "r1",
+      "name": "Quick Red Lentil Soup",
+      "timeMin": 15,
+      "nutrition": { "kcalLow": 240, "kcalEst": 280, "kcalHigh": 320, "p": 14, "f": 7, "c": 38 },
+      "tags": { "moods": ["stressed","sad"], "diet": ["vegetarian"], "equipment": ["pot"], "cuisine": ["Turkish"], "season": [] },
+      "allergens": [],
+      "ingredients": [ { "name": "Red lentils", "g": 80 }, { "name": "Onion", "g": 50 }, { "name": "Olive oil", "g": 10 } ],
+      "steps": [ "Saute onion", "Add lentils and water, cook", "Blend and serve" ]
+    },
+    {
+      "id": "r2",
+      "name": "Lemony Tuna Salad",
+      "timeMin": 10,
+      "nutrition": { "kcalLow": 340, "kcalEst": 380, "kcalHigh": 430, "p": 32, "f": 16, "c": 22 },
+      "tags": { "moods": ["energetic","bored"], "diet": [], "equipment": ["knife"], "cuisine": ["International"], "season": [] },
+      "allergens": ["Fish"],
+      "ingredients": [ { "name": "Canned tuna", "g": 120 }, { "name": "Mixed greens", "g": 80 }, { "name": "Lemon", "g": 30 } ],
+      "steps": [ "Chop greens", "Add tuna and lemon", "Mix and serve" ]
+    }
+  ]
+}
